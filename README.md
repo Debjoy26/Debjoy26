@@ -8,11 +8,10 @@
 </p>
 
 - 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
-- 👨‍💻 Check out my projects on [GitHub]().
 - 💬 Feel free to ask me about **any of my repositories**.
 - 📫 You can reach me at **debjoysarkar26@gmail.com**.
 - ⚡ Fun fact: **I am also a singer**.
-- 🕸️ For both frontend and backend inquiries, visit my [portfolio]().
 
 
 
+<h10 align="center">@@Stay Tuned for more@@</h10>
