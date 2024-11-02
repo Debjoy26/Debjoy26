@@ -1,9 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Debjoy Sarkar</h1>
 
 ### A passionate programmer and backend developer from India, fascinated by the amazing world of cybersecurity, cloud, and a unique blend of AI & ML.
-
-
-
 ---
 
 - 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
@@ -12,8 +9,23 @@
 - ⚡ Fun fact: **I am also a singer!**
 
 ---
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Debjoy26&theme=onedark" alt="Debjoy26" /></a> 
+</p>
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
+</p>
 
-# 🎉 Stay Tuned for More Exciting Adventures! 🎉
+<p align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Debjoy26" />
+</p>
+
+
+
+
+# <h1 align="left">🎉 Stay Tuned for More Exciting Adventures! 🎉</h1>
 
 
 
