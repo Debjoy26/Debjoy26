@@ -27,17 +27,19 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Debjoy26&theme=onedark" alt="Debjoy26" /></a> 
 </p>
 </details>
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
-</p>
 
-<p align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Debjoy26" />
-</p>
+<details>
+  <summary><b>Github Stats🐼</b></summary><br>
+ <p align="center">
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Debjoy26" />
+ </p>
+</details>
 
 
+
+---
 
 
 # <h1 align="left">🎉 Stay Tuned for More Exciting Adventures! 🎉</h1>
