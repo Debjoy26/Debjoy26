@@ -28,8 +28,8 @@
 </p>
 </details>
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
 </p>
 
 <p align="center">
