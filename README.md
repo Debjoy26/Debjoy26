@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary><b>Trophies</b></summary><br>
+  <summary><b>Trophies🏆</b></summary><br>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Debjoy26&theme=onedark" alt="Debjoy26" /></a> 
 </p>
