@@ -31,9 +31,9 @@
 <details>
   <summary><b>Github Stats🐼</b></summary><br>
  <p align="center">
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&show_icons=true&locale=en&theme=onedark" alt="Debjoy26" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=onedark" alt="Debjoy26" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Debjoy26" />
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=dark&hide_border=false" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debjoy26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
  </p>
 </details>
 
