@@ -34,7 +34,7 @@
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debjoy26&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debjoy26&theme=dark&hide_border=false" />
     <a href="https://github.com/Debjoy26/github-readme-stats">
-     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&theme=radical&layout=pie&langs_count=10&card_width=900" />
+     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Debjoy26&show_icons=true&theme=dark&hide_border=false&layout=pie&langs_count=10&card_width=900" />
   </a
  </p>
 </details>
