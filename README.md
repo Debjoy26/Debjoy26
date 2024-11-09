@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, This is Debjoy Sarkar😎🐼</h1>
 
-### A dedicated backend developer and programmer from India, driven by a deep curiosity for the groundbreaking fusion of AI and ML, alongside the ever-evolving realms of cybersecurity and cloud computing.
+### A dedicated backend developer and a slight diving frontend programmer from India, driven by a deep curiosity for the groundbreaking fusion of AI and ML, alongside the ever-evolving realms of cybersecurity and cloud computing.
 ---
 
 - 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
