@@ -3,10 +3,11 @@
 ### A dedicated backend developer and a slight diving frontend programmer from India, driven by a deep curiosity for the groundbreaking fusion of AI and ML, alongside the ever-evolving realms of cybersecurity and cloud computing.
 ---
 
-- 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
-- 💬 Feel free to ask me about **any of my repositories**.
+- 🌱 I’m currently studying **B.Tech 2nd year at RCC Institute of Information Technology**.
+- 💬 Feel free to ask me about **[any of my repositories](https://github.com/Debjoy26?tab=repositories)**.
 - 📫 You can reach me at **[debjoysarkar26@gmail.com](mailto:debjoysarkar26@gmail.com)**.
 - ⚡ Fun fact: **I am also a singer!**
+- 🙂 Interest to work
 
 ---
 <details>	
