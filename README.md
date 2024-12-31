@@ -10,6 +10,13 @@
 - 🙂 Interest to work
 
 ---
+<details>
+ <summary><b>Languages, Framework, Editor on strong Grip</b></summary>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,django,js,nodejs,html,css,tailwindcss,java,mysql,sqlite,postman,vscode" /><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
+</details>
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
