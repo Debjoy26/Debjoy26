@@ -3,9 +3,9 @@
 ### A dedicated backend developer and a slight diving frontend programmer from India, driven by a deep curiosity for the groundbreaking fusion of AI and ML, alongside the ever-evolving realms of cybersecurity and cloud computing.
 ---
 
-- 🌱 I’m currently studying **B.Tech 2nd year at RCC Institute of Information Technology**.
+- 🌱 I’m currently studying **B.Tech 3rd year at RCC Institute of Information Technology**.
 - 💬 Feel free to ask me about **[any of my repositories](https://github.com/Debjoy26?tab=repositories)**.
-- 📫 You can reach me at **[debjoysarkar26@gmail.com](mailto:debjoysarkar26@gmail.com)**.
+- 📫 You can reach me at **[debjoysarkar26@gmail.com](mailto:debjoyyofficial5@gmail.com)**.
 - ⚡ Fun fact: **I am also a singer!**
 - 🙂 Interest to work
 
@@ -57,8 +57,10 @@
 
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/debjoysarkar/" target="blank">
+  <a href="https://www.linkedin.com/in/debjoyysarkar/" target="blank">
     <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>
+ <a href="https://www.instagram.com/debjoyysarkar/" target="blank">
+    <img alt='LinkedIn' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=0072b1'/></a>
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Debjoy26&label=Profile%20views&color=0e75b6&style=flat" alt="Debjoy26" /> 
