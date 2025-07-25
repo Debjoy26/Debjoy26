@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **B.Tech 3rd year at RCC Institute of Information Technology**.
 - 💬 Feel free to ask me about **[any of my repositories](https://github.com/Debjoy26?tab=repositories)**.
-- 📫 You can reach me at **[debjoysarkar26@gmail.com](mailto:debjoyyofficial5@gmail.com)**.
+- 📫 You can reach me at **[debjoyyoffcial5@gmail.com](mailto:debjoyyofficial5@gmail.com)**.
 - ⚡ Fun fact: **I am also a singer!**
 - 🙂 Interest to work
 
